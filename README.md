@@ -1,2 +1,3 @@
-# react-crypto-tracker
-Simple ReactJS app that pulls latest cryptocurrency prices
+## Create React App - Crypto Tracker
+
+Super simple ReactJS built with create-react-app and Axios
