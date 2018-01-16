@@ -6,12 +6,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center; }
-  .trends .last7Days {
-    width: 20%;
-    flex: none; }
-  .trends .last24Hours {
-    width: 20%;
-    flex: none; }
 
 .logo {
   width: 2rem;
@@ -24,22 +18,31 @@
   bottom: 0;
   transition: all 0.3s ease; }
   .logo.BTC {
-    background-image: url("../../logos/bitcoin.svg"); }
+    background-image: url("../../logos/BTC.svg"); }
   .logo.ETH {
-    background-image: url("../../logos/ethereum.svg"); }
+    background-image: url("../../logos/ETH.svg"); }
   .logo.XRP {
-    background-image: url("../../logos/ripple.svg"); }
+    background-image: url("../../logos/XRP.svg"); }
   .logo.BCH {
-    background-image: url("../../logos/bitcoin.svg"); }
+    background-image: url("../../logos/BCH.svg"); }
   .logo.ADA {
-    background-image: url("../../logos/cardano.svg"); }
+    background-image: url("../../logos/ADA.svg"); }
   .logo.LTC {
-    background-image: url("../../logos/litecoin.svg"); }
+    background-image: url("../../logos/LTC.svg"); }
   .logo.XEM {
-    background-image: url("../../logos/nem-xem.svg"); }
+    background-image: url("../../logos/XEM.svg"); }
   .logo.XLM {
-    background-image: url("../../logos/stellar.svg"); }
+    background-image: url("../../logos/STR.svg"); }
   .logo.MIOTA {
-    background-image: url("../../logos/miota.svg"); }
+    background-image: url("../../logos/MIOTA.svg"); }
   .logo.DASH {
-    background-image: url("../../logos/dash.svg"); }
+    background-image: url("../../logos/DASH.svg"); }
+  .logo.NEO {
+    background-image: url("../../logos/NEO.svg");
+  }
+  .logo.XMR {
+    background-image: url("../../logos/XMR.svg");
+  }
+  .logo.EOS {
+    background-image: url("../../logos/EOS.svg");
+  }

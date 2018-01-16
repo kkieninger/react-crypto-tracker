@@ -1,0 +1,23 @@
+.Header-text:before {
+  content: '';
+  height: 2px;
+  width: 1.75rem;
+  position: absolute;
+  top: 22px;
+  left: -2.1rem;
+  bottom: 0;
+  display: block;
+  background-color: #000;
+}
+
+.Header-text:after {
+  content: '';
+  height: 2px;
+  width: 1.75rem;
+  position: absolute;
+  top: 22px;
+  right: -2.1rem;
+  bottom: 0;
+  display: block;
+  background-color: #000;
+}

@@ -1,0 +1,12 @@
+.Footer:before {
+  content: '';
+  height: 2px;
+  width: 25rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  background-color: #000;
+  margin: 0 auto;
+}
